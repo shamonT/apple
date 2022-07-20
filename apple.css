@@ -1,0 +1,497 @@
+body{
+    margin: 0px;
+}.header{
+    width:100%;
+    height:50px;
+    background-color: black;
+    position: fixed;
+    
+}.img1{
+    height: 20px;
+    padding-left: 250px;
+    padding-top: 15px;
+}.btn1{
+    font-size: 12px;
+    margin-left:24px;
+    margin-top: 11px;
+    background-color: black;
+    color: #fff;
+}.img2{
+    height: 20px;
+    margin-left:24px;
+    margin-top: 11px;
+    background-color: black;
+    border-color: black;
+    color: #fff;
+    border: 0px;
+}.img3{
+    height: 25px;
+    margin-left:24px;
+    margin-top: 11px;
+    background-color: black;
+    
+}.smallhead{
+    width: 100%;
+    height: 50px;
+    
+}.first{
+    font-size: 17px;
+    padding-left: 380px;
+ font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;   
+    letter-spacing: -0.374px;
+    
+    
+}.first1{
+    font-size: 14px;
+    color:#0066cc;
+    border: 0px;
+    background-color: #fff;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;   
+    letter-spacing: -0.374px;
+    
+
+}.thirdhead{
+    width:100%;
+    height: 500px;
+    background-color: #fff;
+    
+}.left1{
+    width:50%;
+    height:500px;
+    float: left;
+   
+    
+}.right1{
+    width:50%;
+    height:500px;
+    float: left;
+    background-color:#fff
+    
+}.mac{
+padding-left: 420px;
+padding-top: 100px;
+font-size: 55px;
+font-weight: bolder;
+
+font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;   
+}.mac2{
+padding-left: 450px;
+margin-top: -42px;
+font-size: 35px;
+}.mac3{
+    height:20px;
+    width:20px;
+    padding-left: 20px;
+    margin-top: -6px;
+
+}.img4{
+    width:100%;
+    height:500px;
+
+}.row2{
+margin-left: 460px;
+font-size: 21px;
+font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+background-color: #fff;
+border: 0px;
+}.row3{
+    
+    margin-left: -81px;
+    font-size: 21px;
+font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+background-color: #fff;
+border: 0px
+}.fourthhead{
+    width:100%;
+    height:600px;
+    background-color: #f5f5f7;
+}.upper{
+    width:100%;
+    height:200px;
+    background-color: #fff;
+}.lower{
+    width:100%;
+    height:400px;
+    background-color: #fff;
+}.upperheading{
+    padding-left: 400px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+    font-size: 45px;
+    font-style: italic;
+    font-weight: bolder;
+    
+}
+.secondheading{
+    padding-left: 570px;
+    margin-top: -36px;
+    font-size: 28px;
+    font-style:normal;
+
+}.shopnow{
+    padding-left: 728px;
+    font-size: 25px;
+    color: #0066cc;
+    }.airpodimg{
+        width:400px;
+        height: 400px;
+        padding-left: 543px;
+        
+    }.watch{
+        width: 168px;
+        padding-left: 637px;
+    }.upperheading1{
+        font-size: 29px;
+    padding-left: 681px;
+    margin-top: -30px;
+    color: dark pink;
+    color: deeppink;
+}
+    .secondheading1{
+        font-size: 28px;
+        padding-left: 586px;
+        margin-top: -16px;}
+    
+.row4{
+    padding-left: 0px;
+    font-size: 17px;
+    margin-left: 661px;
+    background-color: #fff;
+    border: opx;
+    border: 0px;
+    color:blue
+}.row5{
+    padding-left: 0px;
+    font-size: 17px;
+    margin-left: 35px;
+    background-color: #fff;
+    border: opx;
+    border: 0px;
+    color:blue
+}.watches{
+    width: 525px;
+    height: 381px;
+    padding-left: 529px;
+}.phones{
+    width: 100%;
+}.upperheading2{
+    padding-left: 333px;
+    font-size: 40px;
+    font-weight: bold;
+}.upperheading3{
+    padding-left: 507px;
+    font-size: 40px;
+    font-weight: bold;
+}.secondheading2{
+    padding-left: 315px;
+    font-size: 23px;
+    margin-top: -53px;
+}.secondheading3{
+    padding-left: 578px;
+    font-size: 23px;
+    margin-top: -53px;
+}.row6{
+    margin-left: 308px;
+    margin-top: -28px;
+    font-size: 17px;
+    background-color: #fff;
+    border: 0px;
+    color: blue;
+}
+.row7{
+    margin-left: -61px;
+    margin-top: -28px;
+    font-size: 17px;
+    background-color: #fff;
+    border: 0px;
+    color: blue;
+}.row8{
+    margin-left: -204px;
+    margin-top: -28px;
+    font-size: 17px;
+    background-color: #fff;
+    border: 0px;
+    color: blue;
+}
+.row9{
+    margin-left: -72px;
+    margin-top: -28px;
+    font-size: 17px;
+    background-color: #fff;
+    border: 0px;
+    color: blue;
+}
+.seventhhead{
+    width:100%;
+    height:600px;
+    background-color:black;
+}.leftsection{
+    width:50%;
+    height: 600px;
+    float: left;
+    
+}.rightsection{
+    width:50%;
+    height: 600px;
+float: left;}
+    .macb{
+width:50%;
+height:200px;
+
+    }
+.picture{
+    width:50%;
+height:400px;
+float: left;
+
+}.air{
+    width:50%;
+height:200px;
+
+}.picture1{
+    width:50%;
+height:400px;
+float: left;
+
+
+}
+.macpro{
+    color: #fff;
+    padding-left: 187px;
+    font-size: 23px;
+    font-weight: bolder;
+    padding-top: 40px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;   
+    
+    }.macp2{
+        padding-left: 206px;
+        font-size: 21px;
+        margin-top: -12px;
+        font-weight: 716px;
+        color:#fff
+    }.macp3{
+        height:20px;
+        width:20px;
+        padding-left: 20px;
+        margin-top: -6px;
+        
+        margin-left: -17px;
+}
+    
+   
+    .mrow2{
+    margin-left: 192px;
+    font-size: 21px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: black;
+    color:#fff;
+    border: 0px;
+    }.mrow3{
+        
+        margin-left: -31px;
+        font-size: 21px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color:black;
+    color:#fff;
+    border: 0px}
+    .picturemac{
+        width: 764px;
+    }.airpro{
+        color: #fff;
+        padding-left: 282px;
+        font-size: 25px;
+        font-weight: bolder;
+        padding-top: 40px;
+        font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;   
+        
+        }.air2{
+            padding-left: 206px;
+            font-size: 21px;
+            margin-top: -12px;
+            font-weight: 716px;
+            color:#fff
+        }.air3{
+            height:20px;
+            width:20px;
+            padding-left: 20px;
+            margin-top: -6px;
+            
+            margin-left: -17px;
+    }
+        
+       
+        .arow2{
+        margin-left: 219px;
+        font-size: 21px;
+        font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        background-color: black;
+        color:#fff;
+        border: 0px;
+        }.arow3{
+            
+            margin-left: -31px;
+            font-size: 21px;
+        font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        background-color:black;
+        color:#fff;
+        border: 0px}
+        .airpicture{
+            width: 764px;
+        }.eighthhead{
+            width:100%;
+            height:600px;
+            background-color:#fff;
+        }.leftsection1{
+            width:50%;
+            height: 600px;
+            float: left;
+            background-color: #fff;
+            
+        }.rightsection1{
+            width:50%;
+            height: 600px;
+            background-image: url(../apple/appletvplus.jpg);
+        float: left;}
+            .game{
+        width:50%;
+        height:200px;
+        
+            }
+        .game1{
+            width: 163px;
+        float: left;
+        padding-left: 212px;
+        padding-top: 62px;
+        
+        }.game2{
+            padding-left: 188px;
+            font-size: 23px;
+            padding-top: 49px;
+        
+        }
+        
+        .picturegame{
+            width:50%;
+            height:700px;
+            float: left;
+        }.picturegame1{
+            width: 652px;
+            margin-top: -5px;
+        } .grow2{
+            margin-left: 149px;
+            font-size: 21px;
+            font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            background-color: #fff;
+            color:blue;
+            
+            border: 0px;
+            width: 139px;
+    }
+            .grow3{
+                width: 119px;
+                margin-left: 44px;
+                font-size: 21px;
+            font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            background-color: #fff;
+            color:blue;
+        border:0px}
+            .apple1{
+                padding-top: 309px;
+                padding-left: 320px;
+                font-size: 40px;
+                color: #fff;
+            }
+            .apple2{
+                padding-left: 344px;
+                font-size: 40px;
+                margin-top: -37px;
+                color: #fff;
+            
+            }.apple3{
+                padding-left: 289px;
+                font-size: 21px;
+                margin-top: -25px;
+                color: #fff;
+            
+            }.apple{
+                padding-left: 334px;
+                font-size: 23px;
+                color: #fff;
+            }.footer{
+                width:100%;
+                height:600px
+            }
+            .footer1{
+                padding-left: 196px;
+                padding-right: 236px;
+                padding-top: 24px;
+            }.t{
+                padding-left:50PX;
+            
+                    
+                
+            }.tr1{
+                text-align: center;
+            }
+            .first-list
+            {
+                float: left;
+                padding-left: 220px;
+                list-style: none;
+            }
+            .second
+            {
+                float: left;
+                list-style: none;
+            }
+            .third
+            {
+                float: left;
+                list-style: none;
+            }
+            .fourth
+            {
+                float: left;
+                list-style: none;
+            }
+            .fifth
+            {
+                float: left;
+                list-style: none;
+            }
+            .six
+            {
+                float: left;
+                list-style: none;
+            }
+            .seventh
+            {
+                float: left;
+                list-style: none;
+            }
+            .eigth
+            {
+                float: left;
+                list-style: none;
+            }
+            .nine
+            {
+                
+                list-style: none;
+            }.list-content1{
+                margin-top: 15px;
+            }.sub{
+                padding-left: 233px;
+            }.subfooter{
+                width :100%;
+                height:100px;
+            }.sub1{
+                padding-left: 10px;
+                color:black;
+            }.sub2{
+                padding-left: 230px;
+            }.sub3{
+                color: black;
+            }.india{
+                padding-left: 487px;
+            }
